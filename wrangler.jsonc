@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "ads-dvdl-tmq",
+	"name": "ads-rg24h-mq",
 	"compatibility_date": "2026-11-04",
 	"assets": {
 		// The path to the directory containing the `index.html` file to be served at `/`
